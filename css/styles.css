@@ -410,14 +410,12 @@ a[href="#"] {
 .label {
   position: absolute;
   bottom: 0;
-  top: 0;
   left: 0;
   right: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 70px;
-  top: 224px;
   background-color: rgba(47, 48, 58, 0.8);
 }
 .label-text {
